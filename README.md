@@ -9,6 +9,11 @@ Here you can see problems by pattern like two-pointer, sliding-window, slow-fast
 - https://codesandbox.io/p/github/beingkumara/leetcode-company-wise-questions/master?file=%2FAmazon%20-%20LeetCode.pdf
 - https://leetcode.com/discuss/interview-question/5195295/Must-Do-Coding-Questions-Company-wise/
 
+## Leetcode
+- https://leetcode.com/problemset/
+- https://leetcode.com/studyplan/leetcode-75/
+- https://leetcode.com/studyplan/top-interview-150/
+
 ## Other coding and interview preparation
 - https://www.codecademy.com/
 - https://www.algoexpert.io/product
