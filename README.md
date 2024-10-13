@@ -26,3 +26,11 @@ Here you can see problems by pattern like two-pointer, sliding-window, slow-fast
 
 ## Miscellaneous
 - https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3
+
+## Interview platforms
+- Interview Kickstart
+- InterviewBit
+- Scaler
+- https://www.educative.io/interview
+- BossCoder
+- https://www.preplaced.in/
