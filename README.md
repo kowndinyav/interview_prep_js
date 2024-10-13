@@ -18,4 +18,6 @@ Here you can see problems by pattern like two-pointer, sliding-window, slow-fast
 - https://codesignal.com/
 - https://codenquest.com/
 - https://www.freecodecamp.org/learn/project-euler/
-- 
+
+## Miscellaneous
+https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3
