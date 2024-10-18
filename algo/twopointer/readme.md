@@ -4,6 +4,9 @@
 - input is sorted
 - find a set of elements that fullfil set of constraints. set can be pair, triplet or a subarray
 
+## Problems when input is not sorted
+- example, triplet sum to zero where first step is to sort
+
 ## Problems
 - Pair with target sum (easy)
 - Find non-duplicate number instances (easy)
